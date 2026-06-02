@@ -153,9 +153,3 @@ GEMINI_MODEL="gemini-1.5-pro"
 ### 통계
 - `GET /api/token-stats` - 토큰 사용량 통계
 - `GET /api/admin/stats` - 관리자 통계
-
----
-
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
