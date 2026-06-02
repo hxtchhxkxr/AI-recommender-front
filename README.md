@@ -4,10 +4,11 @@
 
 ---
 
-## 📸 스크린샷
-| 메인화면 | 채팅화면 | 관리자화면 |
-|----------|----------|------------|
-| ![](./screenshots/main.png) | ![](./screenshots/chat.png) | ![](./screenshots/admin.png) |
+## 📑 발표자료
+
+<a href="./docs/일경험%20발표자료.pdf">
+  <img src="https://img.shields.io/badge/PDF-일경험%20발표자료-red?style=flat-square&logo=adobeacrobatreader&logoColor=white">
+</a>
 
 ---
 
